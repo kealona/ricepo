@@ -1,0 +1,7 @@
+{
+  "devDependencies": {},
+  "dependencies": {
+    "axios": "^0.24.0",
+    "sass-loader": "^7.1.0"
+  }
+}
