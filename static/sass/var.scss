@@ -1,0 +1,83 @@
+/**
+ * 内边距 padding
+ */
+$--padding-background: 20rpx !default;
+$--padding-border-base: 15rpx 20rpx !default;
+$--padding-small: 10rpx !default;
+$--padding-middle: 20rpx !default;
+$--padding-large: 30rpx !default;
+
+/**
+ * 颜色
+ */
+$--color-white: #fff !default;
+$--color-base: #fdc701 !default;
+$--color-grey: #ddd !default;
+$--color-yellow: #ffc041 !default;
+$--color-primary: #2972ff !default;
+$--color-danger: #fa3534 !default;
+$--color-warning: #ff9900 !default;
+$--color-info: #909399 !default;
+$--color-success: #19be6b !default;
+
+/**
+ * 背景颜色
+ */
+$--background-colo-base: #ddd !default;
+$--background-color-header: $--color-base !default;
+$--background-color-nav: #262a35 !default;
+
+/**
+ * 字体颜色 Color
+ */
+$--text-color-white: $--color-white !default;
+$--text-color-base: #606266 !default;
+$--text-color-grey: #909399 !default;
+$--text-color-black: #5a5a5a !default;
+
+/**
+ * border-radius 边框圆角
+ */
+$--border-radius-base: 5rpx !default;
+$--border-radius-small: 10rpx !default;
+$--border-radius-middle: 15rpx !default;
+$--border-radius-large: 20rpx !default;
+$--border-radius-circle: 100% !default;
+
+/**
+ * border-color 边框颜色
+ */
+$--border-color-bottom: $--color-grey !default;
+$--border-color-first: #dcdfe6 !default;
+$--border-color-second: #e4e7ed !default;
+$--border-color-third: #ebeef5 !default;
+$--border-color-fourth: #f2f6fc !default;
+
+/**
+ * tag 标签
+ */
+$--tag-padding-base: 8rpx 10rpx !default;
+
+
+/**
+ * 外边距 margin
+ */
+$--margin-small: 10rpx !default;
+$--margin-middle: 20rpx !default;
+$--margin-large: 30rpx !default;
+
+/**
+ * 字体大小 font-size
+ */
+$--font-size-base: 35rpx !default;
+$--font-size-little: 20rpx !default;
+$--font-size-small: 25rpx !default;
+$--font-size-middle: 30rpx !default;
+$--font-size-large: 40rpx !default;
+
+$--box-shadow-color: rgba(0, 0, 0, 0.1) !default;
+
+/**
+ * 阴影 box-shadow
+ */
+$--box-shadow-base: 0 2px 10px 0 $--box-shadow-color !default;
